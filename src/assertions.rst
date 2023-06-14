@@ -5,7 +5,7 @@
 **********
 Assertions
 **********
-
+آموزش فارسی کردنش
 This appendix lists the various assertion methods that are available.
 
 .. _appendixes.assertions.static-vs-non-static-usage-of-assertion-methods:
